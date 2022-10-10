@@ -1,0 +1,122 @@
+-->> polymorphism
+    polymorphism is a combination of the two Greek words poly which means many and morpg means morphing into different forms or shapes.
+    
+    polymorphism means the same entity can be used in various forms.
+
+           1>> method overiding
+                      declare the same method in the subclass which is previously defined in the superclass is known as the method overriding.
+
+           2>>method overloading
+                      same class can contain same name method.
+
+
+returns an integer representing the relationship between two string.
+
+  *  0 - when the string are equal.
+
+  *  1 - when the first string is greter then the second
+
+  *  -1 - when the first string is smaller than the second
+
+
+-->>  replaceAll():
+   String replaceAll (Pattern from, 
+
+
+-->> endwith():
+
+   syntax:--
+     bool endswith(String other);
+   e.g:
+     'Dart'.endswith('t'); // true
+
+-->> index each element has its index number that tells the element position in  the list.
+
+-->> the index number is used to access the particular element from the list, such as list_name[index].
+-->> the list indexing starts from 0 to length-1 where length denotes the numbers of the element present in the list.
+
+  -->> Types of list
+
+   -->>  1. fixed lenght list
+         2. Growable
+
+-->> encaptulation 
+              wrap of data member and member function in single entity.
+
+          e.g. capsule
+
+                best ex is class
+
+        syntax
+            
+           class <classname>{
+                  // different data member
+                  // diffrent member function
+
+0-->>  abstraction
+
+             it is represent only few information not allocated background information.
+             when we use inheritance - child can access all the properties of parent class but using of acstraction concept is only acheieve with abstract class
+
+abstract class whice is contain only abstract method
+
+
+
+
+
+
+abstract method which is contain only method declaration - no implimatation (without body) 
+
+
+
+
+
+  *****    Flutter  ******
+
+    flutter is an open source UI softwere development kit created by GOOGLE in 2011.
+     
+    flutter apps are written in the dart language and make use of many of the language's more advanced features.
+
+  -->>  who uses flutter???
+
+
+               ->   some big companies are using it, such as as Alibaba (Android , iOS) , Tencent ( Android , iOS) , ans GOOGLE Ads (Android , iOS)... 
+
+
+
+
+
+                                          MyApp(top - Level)
+                                                  |
+                                                  v
+                                              MaterialApp
+                                                  |
+                                                  v
+                                              MyHomepage
+								  |
+								  v
+                                               scaffold
+								  |
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Appbar                          body
+                                                    text

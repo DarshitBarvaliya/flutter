@@ -1,0 +1,21 @@
+B1. What is inheritance?
+
+   ->       Inheritance is defined as the process at deriving the properties and characteristics as another class.
+
+                Syntax :-
+                          class parent_class{
+                                                ...
+                                            } 
+
+                          class child_class extends parent_class{
+                                                                    ...
+                                                                } 
+
+B2. Which inheritance is not supported by Dart? Why? 
+
+   ->       Dart does not support multiple implementation inheritance.There is only a single super-class chain that a class can inherit member implementations from.
+
+
+B3. What is advantage of inheritance?
+
+   ->       
